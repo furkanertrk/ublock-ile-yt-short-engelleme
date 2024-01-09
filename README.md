@@ -1,12 +1,12 @@
-# Hide YouTube Shorts List
+#YouTube Short Engelleme
 
-A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to hide all traces of YouTube shorts videos.
+YouTube Short videolarını gizlemek için filtre listesi ==> [uBlock Origin](https://github.com/gorhill/uBlock)
+ 
+Bu filtre listesi diğer reklam engelleyicilerle de çalışabilir, ancak bunu henüz araştırmadım.
 
-This filter list might work with other content blockers, but I haven't looked into that (yet).
-
-Copy the link below, go to uBlock Origin > Dashboard > Filters and paste the link underneath the 'Import...' heading:
+Aşağıdaki bağlantıyı kopyalayın, uBlock Origin > Dashboard > Filters'a gidin ve bağlantıyı 'Import...' başlığının altına yapıştırın:
 - [https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt](ubo:subscribe?location=https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt)
 
-## License
+## Lisans
 
-See [LICENSE.md](https://github.com/gijsdev/ublock-hide-yt-shorts/blob/master/LICENSE.md)
+Bkz [LICENSE.md](https://github.com/gijsdev/ublock-hide-yt-shorts/blob/master/LICENSE.md)
